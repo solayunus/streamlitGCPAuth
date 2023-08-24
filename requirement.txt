@@ -1,0 +1,7 @@
+virtualenv
+google-cloud-discoveryengine
+streamlit>=1.24.0
+langchain>=0.0.217
+openai
+duckduckgo-search
+anthropic>=0.3.0
